@@ -1,0 +1,17 @@
+C:\Users\willbe\source\repos\GreekAnalysis\obj\Debug\GreekAnalysis.csprojAssemblyReference.cache
+C:\Users\willbe\source\repos\GreekAnalysis\obj\Debug\GreekAnalysis.Properties.Resources.resources
+C:\Users\willbe\source\repos\GreekAnalysis\obj\Debug\GreekAnalysis.csproj.GenerateResource.cache
+C:\Users\willbe\source\repos\GreekAnalysis\bin\Debug\GreekAnalysis.dll
+C:\Users\willbe\source\repos\GreekAnalysis\bin\Debug\GreekAnalysis.pdb
+C:\Users\willbe\source\repos\GreekAnalysis\bin\Debug\GreekAnalysis.dll.manifest
+C:\Users\willbe\source\repos\GreekAnalysis\bin\Debug\GreekAnalysis.vsto
+C:\Users\willbe\source\repos\GreekAnalysis\bin\Debug\GreekAnalysis.xlsm
+C:\Users\willbe\source\repos\GreekAnalysis\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\willbe\source\repos\GreekAnalysis\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\willbe\source\repos\GreekAnalysis\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\willbe\source\repos\GreekAnalysis\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\willbe\source\repos\GreekAnalysis\obj\Debug\GreekAnalysis.csproj.CopyComplete
+C:\Users\willbe\source\repos\GreekAnalysis\obj\Debug\GreekAnalysis.dll
+C:\Users\willbe\source\repos\GreekAnalysis\obj\Debug\GreekAnalysis.pdb
+C:\Users\willbe\source\repos\GreekAnalysis\obj\Debug\GreekAnalysis.Sheet2.resources
+C:\Users\willbe\source\repos\GreekAnalysis\bin\Debug\ExcelDna.Integration.dll
